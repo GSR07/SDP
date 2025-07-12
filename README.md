@@ -90,6 +90,19 @@ The system uses a **MobileNetV1** or **YOLOv5** model trained on a custom datase
    - Stale → Conveyor Left
 6. **Capsicum sorted** into respective baskets.
 
+
+🔮 Future Enhancements
+Use object detection (YOLO) for detecting multiple capsicums simultaneously
+
+Add size and weight grading using sensors
+
+Export model to TensorRT for faster inference
+
+Web dashboard or touch UI for manual override
+
+Multi-class grading: Add rotten, half-rotten, etc.
+
+
 ---
 
 ## 📂 Repository Structure
